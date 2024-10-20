@@ -1,4 +1,4 @@
-![logo](https://github.com/Neha9012/Neha9012/blob/main/README.md)
+
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">I'm a 5th semester BSCS student from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
