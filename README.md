@@ -1,4 +1,4 @@
-![logo](https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg)
+zz![logo](https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">I'm a 6th semester BSCS student from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
@@ -52,7 +52,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <a href="https://github.com/neha9012">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-      width="400" 
+      width="300" 
       height="200" 
       alt="GitHub Stats"
     />
