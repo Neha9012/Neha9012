@@ -10,8 +10,8 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 - 🛣️ **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation):** Simulating traffic and mobility patterns using intelligent data pipelines.
 - 🧠 **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp):** Leveraging Natural Language Processing to combat misinformation.
 - 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using ML.
-
-### 💡 Tech Interests
+<h3 align="center">💡 Tech Interests</h3>
+### 
 - 💻 Full-Stack Web Development (MERN, Laravel, REST APIs)
 - 🔐 Cybersecurity & Threat Intelligence
 - 📊 Data Science, Machine Learning & Time Series
