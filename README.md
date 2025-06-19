@@ -53,7 +53,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-    width="500" 
+    width="300" 
     alt="Top Languages"
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
