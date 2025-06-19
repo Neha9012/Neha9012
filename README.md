@@ -69,6 +69,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
+    
   />
 </p>
 
