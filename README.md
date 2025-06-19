@@ -53,15 +53,16 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-    width="500" 
-    alt="GitHub Stats"
-    style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
+    width="300" 
+    alt="Top Languages"
+    style="border-radius: 15px; box-shadow: 0 0 25px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'" 
+    onmouseout="this.style.transform='scale(1)'"
   />
 </p>
-<p align="left">
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
     width="300" 
