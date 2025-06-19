@@ -50,7 +50,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
 </h3>
 
-<p align="center">
+<p align="right">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
     width="300" 
@@ -61,7 +61,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
     width="300" 
