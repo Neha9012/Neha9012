@@ -4,36 +4,50 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-- 🔭 I’m currently working on **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation)** — a project focused on simulating traffic and mobility patterns using real-time data and Python-based frameworks.
+I’m a Computer Science student, AI developer, and certified cybersecurity enthusiast driven by a mission to merge innovation with real-world problem-solving.
 
-- 🌐 I’m also exploring **AI-powered cybersecurity tools** and working on **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp)** and **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection)** projects.
+### 🔭 Current Projects
+- 🛣️ **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation):** Simulating traffic and mobility patterns using intelligent data pipelines.
+- 🧠 **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp):** Leveraging Natural Language Processing to combat misinformation.
+- 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using ML.
 
-- 💻 I enjoy building with **Python, SQL, and the MERN stack**, and I'm passionate about clean UI/UX, backend logic, and intelligent system design.
+### 💡 Tech Interests
+- 💻 Full-Stack Web Development (MERN, Laravel, REST APIs)
+- 🔐 Cybersecurity & Threat Intelligence
+- 📊 Data Science, Machine Learning & Time Series
+- 🧠 AI + Prompt Engineering for LLMs
+- ☁️ Cloud Databases (AWS RDS, Firebase, MongoDB Atlas)
 
-- 🧠 Currently learning: 
-  - Advanced **Machine Learning**
-  - **AWS for Cloud-Based Databases**
-  - **Laravel** for backend development
-  - **Prompt Engineering** & LLM integrations
+### 🎯 What I'm Learning
+- Advanced ML Models & Deep Learning Architectures
+- Prompt Engineering for AI Automation
+- Backend Systems with PHP & Laravel
+- CI/CD & Scalable Deployment on the Cloud
 
-- 🎓 I'm pursuing a **BS in Computer Science** and have earned certifications in:
-  - Huawei Certified ICT Associate (AI)
-  - Cybersecurity (5+ certifications)
-  - Information & Database Management
+### 📚 Certifications & Education
+- 🎓 **BS Computer Science** | 5th Semester
+- 🏅 Huawei Certified ICT Associate – AI
+- 🛡️ 5+ Certifications in Cybersecurity, Database Management, and ICT
+- 🏆 Alumni of **Arfa Karim Foundation Fellowship Program**
 
-- 🧑‍💼 I’m also doing internships as:
-  - CRM Software Developer @ Arfa Karim Technology Incubator
-  - Web Developer (Frontend: HTML/CSS, JS | Backend: PHP, Laravel)
-  - Innovation Head @ FICS Society
+### 💼 Professional Roles
+- 👩‍💼 **CRM Software Developer Intern** – Arfa Karim Technology Incubator
+- 🧑‍🎓 **Web Developer Intern** – PHP, Laravel, Frontend/Backend
+- 💡 **Innovation Head** – FICS (Tech Society)
 
-- 🌟 Leadership & Collaboration: I lead technical teams, mentor juniors, and manage real-world project workflows using Agile methodology.
+### 🧑‍🤝‍🧑 Leadership & Mentorship
+- 🧠 Mentoring juniors in Python, Git, and UI/UX
+- 🛠️ Leading CRM product design & development
+- 📈 Coordinating agile teams across software lifecycle
 
-- 📫 **Reach me at:** [neeha9012@gmail.com](mailto:neeha9012@gmail.com)
+### 📬 Let's Connect
+- 📧 Email: [neeha9012@gmail.com](mailto:neeha9012@gmail.com)
+- 📝 Resume: [nehasakhawatresume.streamlit.app](https://nehasakhawatresume.streamlit.app/)
+- 🌐 Portfolio: [neha-sakhawat-portfolio](https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio)
 
-- 🔗 **Resume:** [nehasakhawatresume.streamlit.app](https://nehasakhawatresume.streamlit.app/)
-- 💼 **Portfolio:** [neha-sakhawat-portfolio](https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio)
+### ⚡ Fun Fact
+> *When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!*
 
-- 💡 **Fun Fact:** When I’m not coding, I’m exploring underrated GitHub repos, automating everyday tasks, or designing interactive learning tools in Python!
 
 
 <!-- Connect Section -->
