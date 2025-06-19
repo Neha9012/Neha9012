@@ -1,4 +1,4 @@
-zz![logo](https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg)
+![logo](https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">I'm a 6th semester BSCS student from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
@@ -60,7 +60,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <a href="https://github.com/neha9012">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-      width="390" 
+      width="370" 
       height="200" 
       alt="Top Languages"
     />
