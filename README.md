@@ -82,7 +82,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <!-- Fake News Detection -->
   <a href="https://github.com/Neha9012/fake-news-detection-nlp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=fake-news-detection-nlp&theme=radical" 
-         width="500" 
+         width="300" 
          style="border-radius: 12px; margin: 10px;" 
          alt="Fake News Detection NLP Project"/>
   </a>
