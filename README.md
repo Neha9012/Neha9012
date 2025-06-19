@@ -79,7 +79,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <!-- Fake News Detection -->
   <a href="https://github.com/Neha9012/fake-news-detection-nlp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=fake-news-detection-nlp&theme=radical" 
-         width="300" 
+         width="400" 
          style="border-radius: 12px; margin: 10px;" 
          alt="Fake News Detection NLP Project"/>
   </a>
@@ -87,7 +87,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <!-- Network Traffic Anomaly Detection -->
   <a href="https://github.com/Neha9012/network-traffic-anomaly-detection" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=network-traffic-anomaly-detection&theme=radical" 
-         width="300" 
+         width="400" 
          style="border-radius: 12px; margin: 10px;" 
          alt="Network Traffic Anomaly Detection"/>
   </a>
@@ -95,7 +95,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <!-- Traffic Data Simulation -->
   <a href="https://github.com/Neha9012/traffic-data-simulation" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=traffic-data-simulation&theme=radical" 
-         width="300" 
+         width="400" 
          style="border-radius: 12px; margin: 10px;" 
          alt="Traffic Data Simulation"/>
   </a>
