@@ -9,44 +9,73 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 ### 🔭 Current Projects
 - 🛣️ **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation):** Simulating traffic and mobility patterns using intelligent data pipelines.
 - 🧠 **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp):** Leveraging Natural Language Processing to combat misinformation.
-- 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using ML.
+- 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using <!-- Tech Interests Section -->
 <h3 align="center">💡 Tech Interests</h3>
-### 
-- 💻 Full-Stack Web Development (MERN, Laravel, REST APIs)
-- 🔐 Cybersecurity & Threat Intelligence
-- 📊 Data Science, Machine Learning & Time Series
-- 🧠 AI + Prompt Engineering for LLMs
-- ☁️ Cloud Databases (AWS RDS, Firebase, MongoDB Atlas)
 
-### 🎯 What I'm Learning
-- Advanced ML Models & Deep Learning Architectures
-- Prompt Engineering for AI Automation
-- Backend Systems with PHP & Laravel
-- CI/CD & Scalable Deployment on the Cloud
+<p align="center">
+  - 💻 Full-Stack Web Development (MERN, Laravel, REST APIs)<br>
+  - 🔐 Cybersecurity & Threat Intelligence<br>
+  - 📊 Data Science, Machine Learning & Time Series<br>
+  - 🧠 AI + Prompt Engineering for LLMs<br>
+  - ☁️ Cloud Databases (AWS RDS, Firebase, MongoDB Atlas)
+</p>
 
-### 📚 Certifications & Education
-- 🎓 **BS Computer Science** | 5th Semester
-- 🏅 Huawei Certified ICT Associate – AI
-- 🛡️ 5+ Certifications in Cybersecurity, Database Management, and ICT
-- 🏆 Alumni of **Arfa Karim Foundation Fellowship Program**
+<h3 align="center">🎯 What I'm Learning</h3>
+<p align="center">
+  - Advanced ML Models & Deep Learning Architectures<br>
+  - Prompt Engineering for AI Automation<br>
+  - Backend Systems with PHP & Laravel<br>
+  - CI/CD & Scalable Deployment on the Cloud
+</p>
 
-### 💼 Professional Roles
-- 👩‍💼 **CRM Software Developer Intern** – Arfa Karim Technology Incubator
-- 🧑‍🎓 **Web Developer Intern** – PHP, Laravel, Frontend/Backend
-- 💡 **Innovation Head** – FICS (Tech Society)
+<h3 align="center">📚 Certifications & Education</h3>
+<p align="center">
+  - 🎓 <strong>BS Computer Science</strong> | 5th Semester<br>
+  - 🏅 Huawei Certified ICT Associate – AI<br>
+  - 🛡️ 5+ Certifications in Cybersecurity, Database Management, and ICT<br>
+  - 🏆 Alumni of <strong>Arfa Karim Foundation Fellowship Program</strong>
+</p>
 
-### 🧑‍🤝‍🧑 Leadership & Mentorship
-- 🧠 Mentoring juniors in Python, Git, and UI/UX
-- 🛠️ Leading CRM product design & development
-- 📈 Coordinating agile teams across software lifecycle
+<h3 align="center">💼 Professional Roles</h3>
+<p align="center">
+  - 👩‍💼 <strong>CRM Software Developer Intern</strong> – Arfa Karim Technology Incubator<br>
+  - 🧑‍🎓 <strong>Web Developer Intern</strong> – PHP, Laravel, Frontend/Backend<br>
+  - 💡 <strong>Innovation Head</strong> – FICS (Tech Society)
+</p>
 
-### 📬 Let's Connect
-- 📧 Email: [neeha9012@gmail.com](mailto:neeha9012@gmail.com)
-- 📝 Resume: [nehasakhawatresume.streamlit.app](https://nehasakhawatresume.streamlit.app/)
-- 🌐 Portfolio: [neha-sakhawat-portfolio](https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio)
+<h3 align="center">🧑‍🤝‍🧑 Leadership & Mentorship</h3>
+<p align="center">
+  - 🧠 Mentoring juniors in Python, Git, and UI/UX<br>
+  - 🛠️ Leading CRM product design & development<br>
+  - 📈 Coordinating agile teams across the software lifecycle
+</p>
 
-### ⚡ Fun Fact
-> *When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!*
+<h3 align="center">📬 Let's Connect</h3>
+<p align="center">
+  📧 Email: <a href="mailto:neeha9012@gmail.com">neeha9012@gmail.com</a><br>
+  📝 Resume: <a href="https://nehasakhawatresume.streamlit.app/">nehasakhawatresume.streamlit.app</a><br>
+  🌐 Portfolio: <a href="https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio">neha-sakhawat-portfolio</a>
+</p>
+
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">
+  <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
+</p>
+
+<!-- Connect Section -->
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/neha-s-2135b8284" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.whatsapp.com/channel/0029VafHAolJUM2XNALU0N1f" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="30" />
+  </a>
+  <a href="mailto:neeha9012@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" />
+  </a>
+</p>
+
 
 
 
