@@ -19,21 +19,6 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
 </p>
 
-<!-- Connect Section -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/neha-s-2135b8284" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://www.whatsapp.com/channel/0029VafHAolJUM2XNALU0N1f" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="30" />
-  </a>
-  <a href="mailto:neeha9012@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" />
-  </a>
-</p>
-
-
 
 
 <!-- Connect Section -->
