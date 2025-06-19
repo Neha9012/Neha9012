@@ -12,24 +12,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 - 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using 
 <!-- Connect Section -->
 <h3 align="left">🌐 Connect with Me:</h3>
-<p align="center">
-  <a href="https://github.com/neha9012">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-      width="410" 
-      height="200" 
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/neha9012">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-      width="410" 
-      height="200" 
-      alt="Top Languages"
-    />
-  </a>
-</p>
+
 
 <!-- Skills Carousel -->
 <h3 align="left">🚀 Tech Stack</h3>
@@ -62,12 +45,23 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 </div>
 <p align="center">
   <a href="https://github.com/neha9012">
-    <img src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" width="400"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
+      width="410" 
+      height="200" 
+      alt="GitHub Stats"
+    />
   </a>
   <a href="https://github.com/neha9012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" width="400"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
+      width="410" 
+      height="200" 
+      alt="Top Languages"
+    />
   </a>
 </p>
+
 
 
 
