@@ -9,18 +9,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 ### 🔭 Current Projects
 - 🛣️ **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation):** Simulating traffic and mobility patterns using intelligent data pipelines.
 - 🧠 **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp):** Leveraging Natural Language Processing to combat misinformation.
-- 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using <!-- Tech Interests Section -->
-<h3 align="center">💡 Tech Interests</h3>
-
-
-
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">
-  <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
-</p>
-
-
-
+- 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using 
 <!-- Connect Section -->
 <h3 align="left">🌐 Connect with Me:</h3>
 <p>
@@ -119,3 +108,10 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <p align="center" style="font-style: italic; color: #999999; font-size: 15px; margin-top: 25px;">
   ✨ <span style="color: #ff6ec4;">“Turning passion into purpose, one line of code at a time.”</span> ✨
 </p>
+
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">
+  <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
+</p>
+
+
