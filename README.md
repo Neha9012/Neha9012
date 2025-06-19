@@ -46,30 +46,19 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <h3 align="center" style="color: #ff6ec4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
+  📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Insights</span>
 </h3>
 
-<p align="right">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-    width="300" 
-    alt="Top Languages"
-    style="border-radius: 15px; box-shadow: 0 0 25px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
-  />
-</p>
-
-<p align="left">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-    width="300" 
+    width="500" 
     alt="GitHub Stats"
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
-    
+    onmouseout="this.style.transform='scale(1)'" 
   />
 </p>
 
@@ -104,7 +93,6 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   </a>
 </p>
 
-
 <!-- Footer Quote -->
 <p align="center" style="font-style: italic; color: #999999; font-size: 15px; margin-top: 25px;">
   ✨ <span style="color: #ff6ec4;">“Turning passion into purpose, one line of code at a time.”</span> ✨
@@ -114,5 +102,4 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <p align="center">
   <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
 </p>
-
 
