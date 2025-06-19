@@ -51,11 +51,11 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Insights</span>
 </h3>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-    width="500" 
+    width="400" 
     alt="Top Languages"
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
@@ -64,7 +64,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-    width="500" 
+    width="400" 
     alt="GitHub Stats"
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
@@ -72,6 +72,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   />
 
 </div>
+
 
 
 <!-- Top Projects Section -->
