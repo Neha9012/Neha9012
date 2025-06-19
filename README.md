@@ -80,11 +80,14 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Neha9012/Project-One" target="_blank">
+  <a href="[https://github.com/Neha9012/Project-One](https://github.com/Neha9012/fake-news-detection-nlp)" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-One&theme=radical" width="500" style="border-radius: 12px; margin: 10px;"/>
   </a>
-  <a href="https://github.com/Neha9012/Project-Two" target="_blank">
+  <a href="[https://github.com/Neha9012/Project-Two](https://github.com/Neha9012/network-traffic-anomaly-detection)" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical" width="500" style="border-radius: 12px; margin: 10px;"/>
+  </a>
+  <a href="[https://github.com/Neha9012/Project-Two](https://github.com/Neha9012/network-traffic-anomaly-detection)" target="_blank">
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical](https://github.com/Neha9012/traffic-data-simulation)" width="500" style="border-radius: 12px; margin: 10px;"/>
   </a>
 </p>
 
