@@ -60,8 +60,8 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <a href="https://github.com/neha9012">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-      width="370" 
-      height="200" 
+      width="360" 
+      height="180" 
       alt="Top Languages"
     />
   </a>
