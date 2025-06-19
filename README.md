@@ -61,6 +61,17 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
     onmouseout="this.style.transform='scale(1)'" 
   />
 </p>
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
+    width="300" 
+    alt="GitHub Stats"
+    style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+    
+  />
+</p>
 
 <!-- Top Projects Section -->
 <h3 align="center" style="color: #00d2ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
