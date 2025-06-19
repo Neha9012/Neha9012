@@ -12,15 +12,22 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 - 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using 
 <!-- Connect Section -->
 <h3 align="left">🌐 Connect with Me:</h3>
-<p>
-  <a href="https://linkedin.com/in/neha-s-2135b8284" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" />
+<p align="center">
+  <a href="https://github.com/neha9012">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
+      width="410" 
+      height="200" 
+      alt="GitHub Stats"
+    />
   </a>
-  <a href="https://www.whatsapp.com/channel/0029VafHAolJUM2XNALU0N1f" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="30" />
-  </a>
-  <a href="mailto:neeha9012@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" />
+  <a href="https://github.com/neha9012">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
+      width="410" 
+      height="200" 
+      alt="Top Languages"
+    />
   </a>
 </p>
 
