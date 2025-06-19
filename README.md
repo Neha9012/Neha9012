@@ -1,23 +1,73 @@
-![logo](https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg)
-<h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">I'm a 5th semester BSCS student from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-
-
-- 🔭 I’m currently working on [Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation.git)
-
-- 📫 How to reach me **neeha9012@gmail.com**
-
-- 📄 Know about my experiences [https://nehasakhawatresume.streamlit.app/](https://nehasakhawatresume.streamlit.app/)
-
-- ⚡ Fun fact **When I'm not coding, I’m either exploring new tech tools or experimenting with new Python libraries!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neha-s-2135b8284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-s-2135b8284" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg" alt="Neha's Banner" style="width: 100%; border-radius: 12px;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<!-- Animated Heading -->
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FF6F61;">
+  <span style="display: inline-block; animation: typing 3s steps(20), blink .75s step-end infinite;">
+    Hi 👋, I'm Neha Sakhawat
+  </span>
+</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&show_icons=true&locale=en&layout=compact" alt="neha9012" /></p>
+<h3 align="center" style="color: #2E2E2E; font-weight: 500;">AI Developer • Cybersecurity Researcher • Future Tech Leader</h3>
+
+<!-- Coding GIF -->
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="400" alt="Coding">
+</p>
+
+<!-- About Section -->
+<p align="left" style="font-size: 16px; font-family: Arial, sans-serif; line-height: 1.8;">
+  🔭 Leading <strong>CRM Software + Facebook Lead Integration</strong> system at Arfa Karim Incubator.<br>
+  🚦 Simulating <strong>Urban Mobility</strong> using Python, NumPy, and data visualizations.<br>
+  🛡️ Conducting research in <strong>penetration testing, threat modeling, & forensics</strong>.<br>
+  ☁️ Building on <strong>AWS + Zapier</strong> for automation & cloud scaling.<br>
+  🌱 Learning <strong>MERN Stack & AI-integrated Blockchain</strong> apps.<br><br>
+  📫 Email: <a href="mailto:neeha9012@gmail.com">neeha9012@gmail.com</a><br>
+  🧩 Portfolio: <a href="https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio" target="_blank">Click Here</a> |
+  <a href="https://nehasakhawatresume.streamlit.app/" target="_blank">Resume</a>
+</p>
+
+<!-- Connect Section -->
+<h3 align="left">🌐 Connect with Me:</h3>
+<p>
+  <a href="https://linkedin.com/in/neha-s-2135b8284" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.whatsapp.com/channel/0029VafHAolJUM2XNALU0N1f" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="30" />
+  </a>
+  <a href="mailto:neeha9012@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" />
+  </a>
+</p>
+
+<!-- Skills Carousel -->
+<h3 align="left">🚀 Tech Stack</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="transition: transform .3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="transition: transform .3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40"/>
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" width="400"/>
+</p>
+
+<!-- Footer -->
+<p align="center" style="font-style: italic; color: #6c757d; font-size: 14px;">
+  ✨ “Turning passion into purpose, one line of code at a time.” ✨
+</p>
