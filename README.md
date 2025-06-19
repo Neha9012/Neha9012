@@ -107,6 +107,6 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
-  <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
+  <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python !</em>
 </p>
 
