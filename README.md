@@ -7,15 +7,15 @@
 I’m a Computer Science student, AI developer, and certified cybersecurity enthusiast driven by a mission to merge innovation with real-world problem-solving.
 
 ### 🔭 Current Projects
-- 🛣️ **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation):** Simulating traffic and mobility patterns using intelligent data pipelines.
-- 🧠 **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp):** Leveraging Natural Language Processing to combat misinformation.
-- 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using 
+- **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation):** Simulating traffic and mobility patterns using intelligent data pipelines.
+- **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp):** Leveraging Natural Language Processing to combat misinformation.
+- **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using 
 <!-- Connect Section -->
 <h3 align="left">🌐 Connect with Me:</h3>
 
 
 <!-- Skills Carousel -->
-<h3 align="left">🚀 Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="transition: transform .3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="transition: transform .3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
@@ -38,7 +38,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats -->
 <h3 align="center" style="color: #2e7d32; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  📊 <span style="background: linear-gradient(90deg, #00c9ff, #92fe9d);">
+  <span style="background: linear-gradient(90deg, #00c9ff, #92fe9d);">
     GitHub Insights
   </span>
 </h3>
@@ -72,7 +72,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 
 <!-- Top Projects Section -->
 <h3 align="center" style="color: #00d2ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🚀 <span style="background: linear-gradient(90deg, #00d2ff, #3a7bd5); -webkit-background-clip: text; color: transparent;">Top Projects</span>
+   <span style="background: linear-gradient(90deg, #00d2ff, #3a7bd5); -webkit-background-clip: text; color: transparent;">Top Projects</span>
 </h3>
 
 <p align="center">
