@@ -45,12 +45,34 @@
 <br/>
 
 <!-- GitHub Stats -->
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" width="400"/>
+<!-- GitHub Stats Section -->
+<h3 align="center" style="color: #ff6ec4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
+</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
+    width="400" 
+    alt="Top Languages by Neha"
+    style="border-radius: 15px; box-shadow: 0 0 20px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
 </p>
 
-<!-- Footer -->
-<p align="center" style="font-style: italic; color: #6c757d; font-size: 14px;">
-  ✨ “Turning passion into purpose, one line of code at a time.” ✨
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
+    width="400" 
+    alt="Neha's GitHub Stats"
+    style="border-radius: 15px; box-shadow: 0 0 20px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</p>
+
+<!-- Footer Quote -->
+<p align="center" style="font-style: italic; color: #999999; font-size: 14px; margin-top: 20px;">
+  ✨ <span style="color: #ff6ec4;">“Turning passion into purpose, one line of code at a time.”</span> ✨
 </p>
