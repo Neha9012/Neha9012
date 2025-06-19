@@ -80,16 +80,31 @@
 </h3>
 
 <p align="center">
-  <a href="[https://github.com/Neha9012/Project-One](https://github.com/Neha9012/fake-news-detection-nlp)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-One&theme=radical" width="500" style="border-radius: 12px; margin: 10px;"/>
+  <!-- Fake News Detection -->
+  <a href="https://github.com/Neha9012/fake-news-detection-nlp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=fake-news-detection-nlp&theme=radical" 
+         width="500" 
+         style="border-radius: 12px; margin: 10px;" 
+         alt="Fake News Detection NLP Project"/>
   </a>
-  <a href="[https://github.com/Neha9012/Project-Two](https://github.com/Neha9012/network-traffic-anomaly-detection)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical" width="500" style="border-radius: 12px; margin: 10px;"/>
+
+  <!-- Network Traffic Anomaly Detection -->
+  <a href="https://github.com/Neha9012/network-traffic-anomaly-detection" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=network-traffic-anomaly-detection&theme=radical" 
+         width="500" 
+         style="border-radius: 12px; margin: 10px;" 
+         alt="Network Traffic Anomaly Detection"/>
   </a>
-  <a href="[https://github.com/Neha9012/Project-Two](https://github.com/Neha9012/network-traffic-anomaly-detection)" target="_blank">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical](https://github.com/Neha9012/traffic-data-simulation)" width="500" style="border-radius: 12px; margin: 10px;"/>
+
+  <!-- Traffic Data Simulation -->
+  <a href="https://github.com/Neha9012/traffic-data-simulation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=traffic-data-simulation&theme=radical" 
+         width="500" 
+         style="border-radius: 12px; margin: 10px;" 
+         alt="Traffic Data Simulation"/>
   </a>
 </p>
+
 
 <!-- Footer Quote -->
 <p align="center" style="font-style: italic; color: #999999; font-size: 15px; margin-top: 25px;">
