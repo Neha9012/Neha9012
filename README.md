@@ -12,43 +12,9 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 - 🌐 **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection):** Securing systems through intelligent traffic monitoring using <!-- Tech Interests Section -->
 <h3 align="center">💡 Tech Interests</h3>
 
-<p align="center">
-  - 💻 Full-Stack Web Development (MERN, Laravel, REST APIs)<br>
-  - 🔐 Cybersecurity & Threat Intelligence<br>
-  - 📊 Data Science, Machine Learning & Time Series<br>
-  - 🧠 AI + Prompt Engineering for LLMs<br>
-  - ☁️ Cloud Databases (AWS RDS, Firebase, MongoDB Atlas)
-</p>
 
-<h3 align="center">🎯 What I'm Learning</h3>
-<p align="center">
-  - Advanced ML Models & Deep Learning Architectures<br>
-  - Prompt Engineering for AI Automation<br>
-  - Backend Systems with PHP & Laravel<br>
-  - CI/CD & Scalable Deployment on the Cloud
-</p>
 
-<h3 align="center">📚 Certifications & Education</h3>
-<p align="center">
-  - 🎓 <strong>BS Computer Science</strong> | 5th Semester<br>
-  - 🏅 Huawei Certified ICT Associate – AI<br>
-  - 🛡️ 5+ Certifications in Cybersecurity, Database Management, and ICT<br>
-  - 🏆 Alumni of <strong>Arfa Karim Foundation Fellowship Program</strong>
-</p>
 
-<h3 align="center">💼 Professional Roles</h3>
-<p align="center">
-  - 👩‍💼 <strong>CRM Software Developer Intern</strong> – Arfa Karim Technology Incubator<br>
-  - 🧑‍🎓 <strong>Web Developer Intern</strong> – PHP, Laravel, Frontend/Backend<br>
-  - 💡 <strong>Innovation Head</strong> – FICS (Tech Society)
-</p>
-
-<h3 align="center">🧑‍🤝‍🧑 Leadership & Mentorship</h3>
-<p align="center">
-  - 🧠 Mentoring juniors in Python, Git, and UI/UX<br>
-  - 🛠️ Leading CRM product design & development<br>
-  - 📈 Coordinating agile teams across the software lifecycle
-</p>
 
 <h3 align="center">📬 Let's Connect</h3>
 <p align="center">
