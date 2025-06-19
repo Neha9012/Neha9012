@@ -64,7 +64,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-    width="500" 
+    width="300" 
     alt="GitHub Stats"
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
@@ -89,7 +89,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <!-- Network Traffic Anomaly Detection -->
   <a href="https://github.com/Neha9012/network-traffic-anomaly-detection" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=network-traffic-anomaly-detection&theme=radical" 
-         width="500" 
+         width="300" 
          style="border-radius: 12px; margin: 10px;" 
          alt="Network Traffic Anomaly Detection"/>
   </a>
@@ -97,7 +97,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   <!-- Traffic Data Simulation -->
   <a href="https://github.com/Neha9012/traffic-data-simulation" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=traffic-data-simulation&theme=radical" 
-         width="500" 
+         width="300" 
          style="border-radius: 12px; margin: 10px;" 
          alt="Traffic Data Simulation"/>
   </a>
