@@ -63,14 +63,15 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 </p>
 
 <p align="center">
+  <a
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
     width="300" 
     alt="GitHub Stats"
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
-    
+    onmouseout="this.style.transform='scale(1)'">
+    </a>
   />
 </p>
 
