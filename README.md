@@ -47,6 +47,7 @@
 <!-- GitHub Stats -->
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <h3 align="center" style="color: #ff6ec4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
 </h3>
@@ -54,9 +55,9 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
-    width="400" 
+    width="500" 
     alt="Top Languages"
-    style="border-radius: 15px; box-shadow: 0 0 20px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
+    style="border-radius: 15px; box-shadow: 0 0 25px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
   />
@@ -65,9 +66,9 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
-    width="400" 
+    width="500" 
     alt="GitHub Stats"
-    style="border-radius: 15px; box-shadow: 0 0 20px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
+    style="border-radius: 15px; box-shadow: 0 0 25px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
   />
@@ -80,14 +81,14 @@
 
 <p align="center">
   <a href="https://github.com/Neha9012/Project-One" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-One&theme=radical" style="border-radius: 12px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-One&theme=radical" width="500" style="border-radius: 12px; margin: 10px;"/>
   </a>
   <a href="https://github.com/Neha9012/Project-Two" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical" style="border-radius: 12px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical" width="500" style="border-radius: 12px; margin: 10px;"/>
   </a>
 </p>
 
 <!-- Footer Quote -->
-<p align="center" style="font-style: italic; color: #999999; font-size: 14px; margin-top: 20px;">
+<p align="center" style="font-style: italic; color: #999999; font-size: 15px; margin-top: 25px;">
   ✨ <span style="color: #ff6ec4;">“Turning passion into purpose, one line of code at a time.”</span> ✨
 </p>
