@@ -37,9 +37,12 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats -->
-<h3 align="center" style="color: #ff6ec4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Insights</span>
+<h3 align="center" style="color: #2196f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  📊 <span style="background: linear-gradient(90deg, #42a5f5, #26c6da); -webkit-background-clip: text; color: transparent;">
+    GitHub Insights
+  </span>
 </h3>
+
 
 
 </div>
