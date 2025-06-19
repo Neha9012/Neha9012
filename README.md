@@ -14,15 +14,6 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
 
 
 
-
-
-<h3 align="center">📬 Let's Connect</h3>
-<p align="center">
-  📧 Email: <a href="mailto:neeha9012@gmail.com">neeha9012@gmail.com</a><br>
-  📝 Resume: <a href="https://nehasakhawatresume.streamlit.app/">nehasakhawatresume.streamlit.app</a><br>
-  🌐 Portfolio: <a href="https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio">neha-sakhawat-portfolio</a>
-</p>
-
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
   <em>When I’m not coding, I’m probably exploring obscure GitHub tools, creating productivity workflows, or teaching Python with football analogies!</em>
