@@ -46,6 +46,7 @@
 
 <!-- GitHub Stats -->
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <h3 align="center" style="color: #ff6ec4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   📊 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
 </h3>
@@ -54,7 +55,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
     width="400" 
-    alt="Top Languages by Neha"
+    alt="Top Languages"
     style="border-radius: 15px; box-shadow: 0 0 20px rgba(255,110,196,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
@@ -65,11 +66,25 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
     width="400" 
-    alt="Neha's GitHub Stats"
+    alt="GitHub Stats"
     style="border-radius: 15px; box-shadow: 0 0 20px rgba(120,115,245,0.4); transition: transform 0.3s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
   />
+</p>
+
+<!-- Top Projects Section -->
+<h3 align="center" style="color: #00d2ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 <span style="background: linear-gradient(90deg, #00d2ff, #3a7bd5); -webkit-background-clip: text; color: transparent;">Top Projects</span>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Neha9012/Project-One" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-One&theme=radical" style="border-radius: 12px;"/>
+  </a>
+  <a href="https://github.com/Neha9012/Project-Two" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neha9012&repo=Project-Two&theme=radical" style="border-radius: 12px;"/>
+  </a>
 </p>
 
 <!-- Footer Quote -->
