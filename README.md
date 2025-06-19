@@ -1,16 +1,40 @@
 ![logo](https://github.com/Neha9012/Neha9012/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">I'm a 5th semester BSCS student from Pakistan</h3>
+<h3 align="center">I'm a 6th semester BSCS student from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-- 🔭 I’m currently working on [Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation.git)
+- 🔭 I’m currently working on **[Urban Mobility with Advanced Python Simulations](https://github.com/Neha9012/traffic-data-simulation)** — a project focused on simulating traffic and mobility patterns using real-time data and Python-based frameworks.
 
-- 📫 How to reach me *neeha9012@gmail.com*
+- 🌐 I’m also exploring **AI-powered cybersecurity tools** and working on **[Fake News Detection using NLP](https://github.com/Neha9012/fake-news-detection-nlp)** and **[Network Traffic Anomaly Detection](https://github.com/Neha9012/network-traffic-anomaly-detection)** projects.
 
-- 📄 Know about my experiences [https://nehasakhawatresume.streamlit.app/](https://nehasakhawatresume.streamlit.app/)
+- 💻 I enjoy building with **Python, SQL, and the MERN stack**, and I'm passionate about clean UI/UX, backend logic, and intelligent system design.
 
-- ⚡ Fun fact *When I'm not coding, I’m either exploring new tech tools or experimenting with new Python libraries!*
+- 🧠 Currently learning: 
+  - Advanced **Machine Learning**
+  - **AWS for Cloud-Based Databases**
+  - **Laravel** for backend development
+  - **Prompt Engineering** & LLM integrations
+
+- 🎓 I'm pursuing a **BS in Computer Science** and have earned certifications in:
+  - Huawei Certified ICT Associate (AI)
+  - Cybersecurity (5+ certifications)
+  - Information & Database Management
+
+- 🧑‍💼 I’m also doing internships as:
+  - CRM Software Developer @ Arfa Karim Technology Incubator
+  - Web Developer (Frontend: HTML/CSS, JS | Backend: PHP, Laravel)
+  - Innovation Head @ FICS Society
+
+- 🌟 Leadership & Collaboration: I lead technical teams, mentor juniors, and manage real-world project workflows using Agile methodology.
+
+- 📫 **Reach me at:** [neeha9012@gmail.com](mailto:neeha9012@gmail.com)
+
+- 🔗 **Resume:** [nehasakhawatresume.streamlit.app](https://nehasakhawatresume.streamlit.app/)
+- 💼 **Portfolio:** [neha-sakhawat-portfolio](https://elitesoftworks.my.canva.site/neha-sakhawat-portfolio)
+
+- 💡 **Fun Fact:** When I’m not coding, I’m exploring underrated GitHub repos, automating everyday tasks, or designing interactive learning tools in Python!
+
 
 <!-- Connect Section -->
 <h3 align="left">🌐 Connect with Me:</h3>
