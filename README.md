@@ -54,6 +54,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
       src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" 
       width="410" 
       height="200" 
+       style="border-radius: 12px; margin: 10px;"
       alt="GitHub Stats"
     />
   </a>
@@ -62,6 +63,7 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
       src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" 
       width="360" 
       height="180" 
+       style="border-radius: 12px; margin: 10px;"
       alt="Top Languages"
     />
   </a>
