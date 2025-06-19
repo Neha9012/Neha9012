@@ -72,6 +72,14 @@ I’m a Computer Science student, AI developer, and certified cybersecurity enth
   />
 
 </div>
+<p align="center">
+  <a href="https://github.com/neha9012">
+    <img src="https://github-readme-stats.vercel.app/api?username=neha9012&show_icons=true&theme=radical" width="400"/>
+  </a>
+  <a href="https://github.com/neha9012">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neha9012&layout=compact&theme=radical" width="400"/>
+  </a>
+</p>
 
 
 
